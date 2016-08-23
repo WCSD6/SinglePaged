@@ -28,9 +28,9 @@ colors:
   black:     '#111111'
   white:     '#f8f8f8'
   blue:      '#197A9D'
-  green:     '#93c47d'
-  red:       '#DC5A3F'
-  yellow:    '#ffd966'
+  green:     '#67a060'
+  red:       '#dc5a3e'
+  yellow:    '#f4e40d'
   turquoise: '#76a5af'
 
 kramdown:
