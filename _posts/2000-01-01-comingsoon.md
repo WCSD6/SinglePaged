@@ -7,7 +7,7 @@ style: center
 
 ## Save The Date!
 
-<i class="fa fa-calendar-check-o" aria-hidden="true"></i>
+<i class="fa fa-calendar-check-o" aria-hidden="false"></i>
 
 ## The Greeley BL Summit is back on November 2nd 2017!
 <br>
