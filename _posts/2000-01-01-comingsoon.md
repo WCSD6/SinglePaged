@@ -9,7 +9,7 @@ style: center
 
 {:.center}
 <a href="">
-   <img src="https://github.com/WCSD6/TheGreeleyBlendedLearningSummit/blob/gh-pages/img/noun_849135_cc.png?raw=true">
+   <img src="https://github.com/WCSD6/TheGreeleyBlendedLearningSummit/blob/gh-pages/img/noun_849135_cc.png?raw=true" alt="icon" style="width:200px;">
 </a>
 
 ## The Greeley BL Summit is back on November 2nd 2017!
