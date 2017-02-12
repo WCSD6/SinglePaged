@@ -7,7 +7,10 @@ style: center
 
 ## Save The Date!
 
-<i class="fa fa-calendar-check-o" aria-hidden="false"></i>
+{:.center}
+<a href="">
+   <img src="https://github.com/WCSD6/TheGreeleyBlendedLearningSummit/blob/gh-pages/img/noun_849135_cc.png?raw=true">
+</a>
 
 ## The Greeley BL Summit is back on November 2nd 2017!
 <br>
